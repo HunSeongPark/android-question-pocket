@@ -8,8 +8,7 @@
 * Object / Companion Object                     
 * Broadcast Receiver / Notification / Alarm Manager 정의, 명확한 차이, 사용목적 구분               
 * SurfaceView            
-* [RecyclerView.Adapter / ListAdapter 차이](https://hungseong.tistory.com/24)                   
-* Context                                                                  
+* [RecyclerView.Adapter / ListAdapter 차이](https://hungseong.tistory.com/24)                                                                               
 * [Fragment Lifecycle, 상황별 호출 순서](https://hungseong.tistory.com/25?category=518367)                      
 * Entity / Object 차이                          
 * [Thread - Handler, Looper](https://hungseong.tistory.com/26)                      
