@@ -5,7 +5,7 @@
 # 궁금증 주머니💰                               
 * JobScheduler (브로드캐스트 리시버에서의 작업 처리 등)                        
 * Inline function                         
-* Object / Companion Object                     
+* [Object / Companion Object](https://hungseong.tistory.com/28)                                            
 * Broadcast Receiver / Notification / Alarm Manager 정의, 명확한 차이, 사용목적 구분               
 * SurfaceView            
 * [RecyclerView.Adapter / ListAdapter 차이](https://hungseong.tistory.com/24)                                                                               
