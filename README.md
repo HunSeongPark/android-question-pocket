@@ -12,4 +12,5 @@
 * [Fragment Lifecycle, 상황별 호출 순서](https://hungseong.tistory.com/25?category=518367)                      
 * Entity / Object 차이                          
 * [Thread - Handler, Looper](https://hungseong.tistory.com/26)                      
-* [Exception 종류, 내용](https://hungseong.tistory.com/27)
+* [Exception 종류, 내용](https://hungseong.tistory.com/27)                    
+* [(Hilt) @Binds / @Provides 차이](https://hungseong.tistory.com/29)                    
