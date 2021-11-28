@@ -14,3 +14,4 @@
 * [Thread - Handler, Looper](https://hungseong.tistory.com/26)                      
 * [Exception 종류, 내용](https://hungseong.tistory.com/27)                    
 * [(Hilt) @Binds / @Provides 차이](https://hungseong.tistory.com/29)                    
+* [제네릭의 in,out 키워드](https://hungseong.tistory.com/30)                                       
