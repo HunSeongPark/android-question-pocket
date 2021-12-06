@@ -15,4 +15,5 @@
 * [Exception 종류, 내용](https://hungseong.tistory.com/27)                    
 * [(Hilt) @Binds / @Provides 차이](https://hungseong.tistory.com/29)                    
 * [제네릭의 in,out 키워드](https://hungseong.tistory.com/30)                                  
-* [ViewPager2의 setCurrentItem이 동작하지 않는 문제](https://hungseong.tistory.com/31)                       
+* [ViewPager2의 setCurrentItem이 동작하지 않는 문제](https://hungseong.tistory.com/31)                      
+* [Flow block 내에서 여러 개의 suspend function에 대한 비동기 처리](https://hungseong.tistory.com/32)                  
