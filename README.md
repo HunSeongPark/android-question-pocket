@@ -20,4 +20,5 @@
 * [Room DB에서 Flow를 사용하여 DB 변경 observing](https://hungseong.tistory.com/33)                           
 * [Custom Dialog](https://hungseong.tistory.com/34)                 
 * Intent의 각 Flag 별 동작               
-* [Bottom Navigation View + Jetpack Navigation fade animation 제거](https://hungseong.tistory.com/35)                                                  
+* [Bottom Navigation View + Jetpack Navigation fade animation 제거](https://hungseong.tistory.com/35)                       
+* [RecyclerView에서 스크롤 시 Check box의 check 상태 보존](https://hungseong.tistory.com/36)                                              
