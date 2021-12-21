@@ -24,4 +24,6 @@
 * [RecyclerView에서 스크롤 시 Check box의 check 상태 보존](https://hungseong.tistory.com/36)                     
 * [sortedWith()와 compareBy()를 사용한 collection의 다중 정렬 기준 설정](https://hungseong.tistory.com/37)                    
 * [ClipboardManager를 사용하여 기기에서 복사된 값 붙여넣기](https://hungseong.tistory.com/38)                  
-* WorkManager의 사용, WorkManager를 사용해야 하는 경우                                                                           
+* WorkManager의 사용, WorkManager를 사용해야 하는 경우                    
+* 서버와 API                 
+* Clean Architecture                                                                                
