@@ -27,3 +27,4 @@
 * WorkManager의 사용, WorkManager를 사용해야 하는 경우                    
 * 서버와 API                 
 * Clean Architecture                                                                                
+* 비동기 프로그래밍                       
