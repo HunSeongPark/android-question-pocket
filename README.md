@@ -28,4 +28,5 @@
 * 서버와 API                 
 * Clean Architecture                                                                                
 * 비동기 프로그래밍 / 동기와 비동기                                  
-* Reactive Programming
+* Reactive Programming                        
+* API 통신 관련 라이브러리(Retrofit, etc..)                  
