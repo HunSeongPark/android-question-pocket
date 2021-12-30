@@ -28,6 +28,5 @@
 * 서버와 API                 
 * Clean Architecture                                                                                
 * 비동기 프로그래밍 / 동기와 비동기                             
-* 동시성, 병렬성의 차이                 
 * [Reactive Programming](https://hungseong.tistory.com/category/Dev%20Book/Reactive%20Programming%20in%20Kotlin)                                              
 * API 통신 관련 라이브러리(Retrofit, etc..)                  
