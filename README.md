@@ -5,11 +5,9 @@
 # 궁금증 주머니💰                               
 * JobScheduler (브로드캐스트 리시버에서의 작업 처리 등)                        
 * Inline function                         
-* [Object / Companion Object](https://hungseong.tistory.com/28)                                            
-* Broadcast Receiver / Notification / Alarm Manager 정의, 명확한 차이, 사용목적 구분                         
+* [Object / Companion Object](https://hungseong.tistory.com/28)                                                                   
 * [RecyclerView.Adapter / ListAdapter 차이](https://hungseong.tistory.com/24)                                                                               
 * [Fragment Lifecycle, 상황별 호출 순서](https://hungseong.tistory.com/25?category=518367)                      
-* Entity / Object 차이                          
 * [Thread - Handler, Looper](https://hungseong.tistory.com/26)                      
 * [Exception 종류, 내용](https://hungseong.tistory.com/27)                    
 * [(Hilt) @Binds / @Provides 차이](https://hungseong.tistory.com/29)                    
