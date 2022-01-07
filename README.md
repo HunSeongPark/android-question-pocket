@@ -29,6 +29,7 @@
 * Inline function                         
 * [제네릭의 in,out 키워드](https://hungseong.tistory.com/30)                                  
 * [sortedWith()와 compareBy()를 사용한 collection의 다중 정렬 기준 설정](https://hungseong.tistory.com/37)                    
+* companion object에서 val / const val 차이 (각 키워드 별 사용 용도)                     
 
 ## Programming                
 * 서버와 API                 
