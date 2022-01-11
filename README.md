@@ -22,7 +22,8 @@
 * API 통신 관련 라이브러리(Retrofit, etc..)                      
 * ImageView ScaleType 별 차이                          
 * JobScheduler (브로드캐스트 리시버에서의 작업 처리 등)                        
-* [Firebase DB에서의 각 Listener별 차이점 (Value, Single, Child)](https://hungseong.tistory.com/54)                     
+* [Firebase DB에서의 각 Listener별 차이점 (Value, Single, Child)](https://hungseong.tistory.com/54)            
+* [Bottom Navigation View + Jetpack Navigation 바텀 메뉴 클릭 시 프래그먼트 재생성 막기](https://hungseong.tistory.com/56)           
 * ViewBinding에서의 layoutInflater                         
 * CI/CD                     
 * Test Code                                 
