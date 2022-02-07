@@ -2,7 +2,16 @@
 공부해야 할 것, 궁금한 것, 발생한 문제에 대하여                    
 * 학습 후 블로그에 작성 및 링크               
                                 
-# 궁금증 주머니💰                               
+# 궁금증 주머니💰                 
+
+## Java                              
+
+## Kotlin                     
+* [Object / Companion Object](https://hungseong.tistory.com/28)                                                                   
+* Inline function                         
+* [제네릭의 in,out 키워드](https://hungseong.tistory.com/30)                                  
+* [sortedWith()와 compareBy()를 사용한 collection의 다중 정렬 기준 설정](https://hungseong.tistory.com/37)                    
+* companion object에서 val / const val 차이 (각 키워드 별 사용 용도)                     
 
 ## Android                  
 * [RecyclerView.Adapter / ListAdapter 차이](https://hungseong.tistory.com/24)                                                                               
@@ -26,14 +35,7 @@
 * [Bottom Navigation View + Jetpack Navigation 바텀 메뉴 클릭 시 프래그먼트 재생성 막기](https://hungseong.tistory.com/56)           
 * ViewBinding에서의 layoutInflater                         
 * CI/CD                     
-* Test Code                                 
-
-## Kotlin                     
-* [Object / Companion Object](https://hungseong.tistory.com/28)                                                                   
-* Inline function                         
-* [제네릭의 in,out 키워드](https://hungseong.tistory.com/30)                                  
-* [sortedWith()와 compareBy()를 사용한 collection의 다중 정렬 기준 설정](https://hungseong.tistory.com/37)                    
-* companion object에서 val / const val 차이 (각 키워드 별 사용 용도)                     
+* Test Code                      
 
 ## Programming                
 * 서버와 API                 
